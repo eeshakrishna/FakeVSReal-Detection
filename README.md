@@ -17,6 +17,7 @@ It can work well with large datasets.
 This pre-trained model will be combined with a sequential model for binary classification.
 
 Set-Up: 
+Download the FvsR.ipynb file
 Downloaded the necessary libraries. (Keras, TensorFlow, numpy, pandas,cv2,etc)
 Download the dataset
 Change the paths in the code according to your setup.
